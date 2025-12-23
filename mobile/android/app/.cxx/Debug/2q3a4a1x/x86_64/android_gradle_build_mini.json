@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "E:\\C\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\PKTAM\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\spkt\\KHOA LUAN TOT NGHIEP\\src\\SecondHandShopping_Web_Mobile\\mobile\\android\\app\\.cxx\\Debug\\2q3a4a1x\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\PKTAM\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\spkt\\KHOA LUAN TOT NGHIEP\\src\\SecondHandShopping_Web_Mobile\\mobile\\android\\app\\.cxx\\Debug\\2q3a4a1x\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

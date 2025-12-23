@@ -1,0 +1,11 @@
+{
+  "vnp_TmnCode": "OOPSJWRW",
+  "vnp_HashSecret": "QPGX59MTK8ALSXS7I9LF45N39IVU30HK",
+  "vnp_Url": "https://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
+  "vnp_ReturnUrl": "http://localhost:5173/payment-result",
+  "vnp_AdminReturnUrl": "http://localhost:5173/admin/payment-result",
+
+  " const vnp_TmnCode = ": "EFS8N5KY",
+  "const vnp_HashSecret = ": "M5FWOUC6GYY7LGS1JLJIUQ10S7DF3D5Z",
+  "const vnp_ReturnUrl = ": "http://localhost:5555/vnPayCheckout/check-payment-vnpay"
+}

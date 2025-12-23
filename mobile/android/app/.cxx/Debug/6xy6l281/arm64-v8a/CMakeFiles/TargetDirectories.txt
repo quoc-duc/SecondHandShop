@@ -1,0 +1,2 @@
+D:/spkt/KHOA LUAN TOT NGHIEP/src/SecondHandShopping_Web_Mobile/mobile/android/app/.cxx/Debug/6xy6l281/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/spkt/KHOA LUAN TOT NGHIEP/src/SecondHandShopping_Web_Mobile/mobile/android/app/.cxx/Debug/6xy6l281/arm64-v8a/CMakeFiles/rebuild_cache.dir
